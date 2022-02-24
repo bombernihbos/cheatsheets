@@ -15,7 +15,7 @@ introduction: |
 #   echo ""
 #   echo "\`\`\`"
 # 
-#   echo Hamburger | figlet -f $name -w 2000
+#   echo BMBR | figlet -f $name -w 2000
 # 
 #   echo "\`\`\`"
 #   echo "{: .-figlet}"
@@ -43,7 +43,7 @@ introduction: |
 ### Usage
 
 ```bash
-echo "Hamburger" | figlet -f cybermedium
+echo "BMBR" | figlet -f cybermedium
 ```
 
 ```
@@ -69,7 +69,7 @@ Figlet comes with support for Toilet fonts, which are in `{share}/figlet`. This 
 ### wideterm
 
 ```
-Ｈａｍｂｕｒｇｅｒ
+BMBR
 ```
 {: .-figlet}
 
